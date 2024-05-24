@@ -4,9 +4,9 @@
              x:Class="MauiApp1.StackLayoutPage"
              Title="StackLayoutPage">
     <StackLayout VerticalOptions="Center">
-        <Label Text="Small Text" FontSize="Small" />
-        <Label Text="Medium Text" FontSize="Medium" />
-        <Label Text="Large Text" FontSize="Large" />
+        <Label Text="Esto es un Texto Pequeño" FontSize="Small" />
+        <Label Text="Esto es un Texto Mediano" FontSize="Medium" />
+        <Label Text="Esto es un Texto Enorme" FontSize="Large" />
         <Button Text="Go to FlexLayout Page" Clicked="OnFlexLayoutPageButtonClicked"/>
     </StackLayout>
 </ContentPage>
